@@ -1,4 +1,8 @@
-### 👋 Hello there, I’m Lua!
+<p align="center">    
+    <img style="border-radius: 100px" width="128" height="128" src="https://avatars.githubusercontent.com/u/95539320?v=4">
+</p>
+<h1 align="center">Lua</h1>
+
 ![](https://komarev.com/ghpvc/?username=LuaInjector)
 
 <h2>Projects</h2>
