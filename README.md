@@ -1,5 +1,5 @@
 <p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://avatars.githubusercontent.com/u/95539320?v=4">
+    <img style="border-radius: 50%" width="128" height="128" src="https://avatars.githubusercontent.com/u/95539320?v=4">
 </p>
 <h1 align="center">Lua</h1>
 
